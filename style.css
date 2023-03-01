@@ -172,7 +172,7 @@ span{
 .cont{
     margin-bottom: 8px;
 }
-@media only screen and (max-width : 375px){
+@media only screen and (max-width : 500px){
    .main{
     flex-direction: column;
     width: 100%;
